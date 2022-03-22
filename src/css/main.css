@@ -18,7 +18,7 @@ body {
   margin-top: 25px;
   border-radius: 15px;
   border-style: solid;
-  box-shadow: 7px 7px 50px rgba(58, 56, 56, 0.5);
+  box-shadow: 0px 0px 40px 5px rgb(255 255 255 / 0.15);
 }
 
 .logo {

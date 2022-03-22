@@ -1,0 +1,78 @@
+.modal-open{
+    background-color: rgb(0, 0, 0);
+    font-family: outfit;
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+}
+
+
+.button {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: 	rgb(41,41,41);
+    margin-left: 217px;
+    margin-top: 25px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+
+.txt {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 68px;
+    margin-top: 30px;
+    color: white;
+    font-size: 1.5rem;
+}
+
+
+.modal-fade{
+    background-color: rgb(0, 0, 0);
+}
+
+.age{
+    display: flex;
+    justify-content: center;
+    margin-top: 140px;
+    color: white;
+}
+
+.modal-contenu {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    pointer-events: auto;
+    background-color: rgb(0, 0, 0);
+    background-clip: padding-box;
+    border-radius: 15px;
+    outline: 0;
+    box-shadow: 0px 0px 40px 5px rgb(255 255 255 / 0.15);
+    width: 750px;
+    height: 390px;
+    margin-left: -130px;
+    margin-top: 70px;
+
+}
+
+.logo{
+    margin-top: 16px;
+    margin-left: 74px;
+    position: absolute;
+    z-index: 1;
+}
+
+.button:hover{
+    text-decoration: none;
+    color: white;
+}
