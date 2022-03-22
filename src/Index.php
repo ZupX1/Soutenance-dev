@@ -19,50 +19,44 @@
             <label for="val2">azedarach </label>
         </form>
         <div class="logo">
-            <img src="img/logo.png">
+            <a href="home.php"><img src="img/logo.png"></a>
         </div>
     <div class="container">
         <div class="arbres">
             <div class="arbre" id="arbre1">
                 <img src="img/arbre.png">
                 <div class="text" id="prems">
-                    <ul class="desc">
-                        <li class="name">Hêtre</li>
-                        <li class="especes">Sylvatica</li>
-                        <li class="lieu">XVIeme</li>
-                        <li class="taille">320 cm</li>
-                    </ul>
+                        <p class="name">Hêtre</p>
+                        <p class="especes">Sylvatica</p>
+                        <p class="lieu">16ème arrondissement</p>
+                        <p class="taille">320 cm</p>
                 </div>
             </div>
             <div class="arbre" id="arbre2">
                 <img src="img/arbre.png">
                 <div class="text" id="prems">
-                    <p class="name">Chêne</p>
-                    <p class="especes">X Hispanica</p>
-                    <p class="lieu">16ème arrondissement</p>
-                    <p class="taille">443 cm</p>
+                        <p class="name">Chêne</p>
+                        <p class="especes">X Hispanica</p>
+                        <p class="lieu">16ème arrondissement</p>
+                        <p class="taille">443 cm</p>
                 </div>
             </div>
             <div class="arbre" id="arbre3">
                 <img src="img/arbre.png">
                 <div class="text" id="prems">
-                    <ul class="desc">
-                        <li class="name">Hêtre</li>
-                        <li class="especes">Sylvatica</li>
-                        <li class="lieu">7ème arrondissement</li>
-                        <li class="taille">205 cm</li>
-                    </ul>
+                        <p class="name">Hêtre</p>
+                        <p class="especes">Sylvatica</p>
+                        <p class="lieu">7ème arrondissement</p>
+                        <p class="taille">205 cm</p>
                 </div>
             </div>
             <div class="arbre" id="arbre4">
                 <img src="img/arbre.png">
                 <div class="text" id="prems">
-                    <ul class="desc">
-                        <li class="name">Lilas de Perse</li>
-                        <li class="especes">azedarach</li>
-                        <li class="lieu">8ème arrondissement</li>
-                        <li class="taille">168 cm</li>
-                    </ul>
+                        <p class="name">Lilas de Perse</p>
+                        <p class="especes">azedarach</p>
+                        <p class="lieu">8ème arrondissement</p>
+                        <p class="taille">168 cm</p>
                 </div>
             </div>
     </div>
