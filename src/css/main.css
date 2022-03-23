@@ -71,12 +71,11 @@ img:hover {
   border-radius: 10px;
   display: none;
   position: absolute;
-  color: rgb(255, 163, 26);
+  color: rgb(255, 255, 255);
   font-size: 14px;
   left: 50%;
   transform: translateX(-50%);
   width: auto;
-  margin-left: 50px;
   white-space: nowrap;
   background-color: black;
 }

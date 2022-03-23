@@ -11,11 +11,11 @@
         <form>
             <input type="checkbox" class="checkbox" value="tous" id="val1" checked/> 
             <label for="val1"> Tous </label>
-            <input type="checkbox" class="checkbox" value="X Hispanica" id="val2" checked/> 
+            <input type="checkbox" class="checkbox" value="X Hispanica" id="val2"/> 
             <label for="val2">X Hispanica </label>
-            <input type="checkbox" class="checkbox" value="Sylvatica" id="val3" checked/> 
+            <input type="checkbox" class="checkbox" value="Sylvatica" id="val3"/> 
             <label for="val2">Sylvatica </label>
-            <input type="checkbox" class="checkbox" value="azedarach" id="val4" checked/> 
+            <input type="checkbox" class="checkbox" value="azedarach" id="val4"/> 
             <label for="val2">azedarach </label>
         </form>
         <div class="logo">
@@ -24,7 +24,7 @@
     <div class="container">
         <div class="arbres">
             <div class="arbre" id="arbre1">
-                <img src="img/arbre.png">
+                <img class="phtarbre" src="img/arbre.png">
                 <div class="text" id="prems">
                         <p class="name">Hêtre</p>
                         <p class="especes">Sylvatica</p>
@@ -33,7 +33,7 @@
                 </div>
             </div>
             <div class="arbre" id="arbre2">
-                <img src="img/arbre.png">
+                <img class="phtarbre" src="img/arbre.png">
                 <div class="text" id="prems">
                         <p class="name">Chêne</p>
                         <p class="especes">X Hispanica</p>
@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div class="arbre" id="arbre3">
-                <img src="img/arbre.png">
+                <img class="phtarbre" src="img/arbre.png">
                 <div class="text" id="prems">
                         <p class="name">Hêtre</p>
                         <p class="especes">Sylvatica</p>
@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="arbre" id="arbre4">
-                <img src="img/arbre.png">
+                <img class="phtarbre" src="img/arbre.png">
                 <div class="text" id="prems">
                         <p class="name">Lilas de Perse</p>
                         <p class="especes">azedarach</p>

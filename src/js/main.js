@@ -34,4 +34,4 @@ function filter(value, checked) {
     );
 };
 
-$("#getCodeModal").modal("show");
+
