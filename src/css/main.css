@@ -18,7 +18,7 @@ body {
   margin-top: 25px;
   border-radius: 15px;
   border-style: solid;
-  box-shadow: 7px 7px 50px rgba(58, 56, 56, 0.5);
+  box-shadow: 0px 0px 40px 5px rgb(255 255 255 / 0.15);
 }
 
 .logo {
@@ -71,12 +71,11 @@ img:hover {
   border-radius: 10px;
   display: none;
   position: absolute;
-  color: rgb(255, 163, 26);
+  color: rgb(255, 255, 255);
   font-size: 14px;
   left: 50%;
   transform: translateX(-50%);
   width: auto;
-  margin-left: 50px;
   white-space: nowrap;
   background-color: black;
 }
