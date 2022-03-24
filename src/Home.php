@@ -7,12 +7,12 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='css/home.css'>
 </head>
+<body>
 <header>
     <div class="logo">
     <a href="home.php"><img src="img/logo.png"></a>
     </div>
 </header>
-<body>
     <div class="pub1">
         <a href="home.php" onclick="window.open('popup.php');"><img src="img/doggy.jpg" class="stretch"> </a>
     </div>
@@ -29,4 +29,5 @@
     </div>
     <div class="txthori">
     </div>
+
 </body>

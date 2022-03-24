@@ -19,7 +19,7 @@
             <label for="val2">azedarach </label>
         </form>
         <div class="logo">
-            <a href="home.php"><img src="img/logo.png"></a>
+            <a href="verif.php"><img src="img/logo.png"></a>
         </div>
     <div class="container">
         <div class="arbres">
