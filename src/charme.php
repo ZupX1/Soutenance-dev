@@ -5,10 +5,9 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Les arbres remarquables</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='css/popup.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css/charme.css'>
 </head>
 <body>
-    <script>alert('Vous êtes le millionième visiteur, enregistrez-vous pour gagner un arbre')</script>
-    <audio autoplay src="img/ph.mp3"> </audio>
+    <audio autoplay src="img/dofus.mp3"> </audio>
 </body>
 </html>
